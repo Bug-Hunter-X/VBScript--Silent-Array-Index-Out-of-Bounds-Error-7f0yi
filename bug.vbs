@@ -1,0 +1,1 @@
+Function using an array with an index out of bounds can cause a runtime error.  This is especially problematic in VBScript where error handling isn't as robust as in some other languages.  The script might simply stop executing without providing a clear error message, making debugging difficult.
